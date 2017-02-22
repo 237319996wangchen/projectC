@@ -1,4 +1,4 @@
 <?php 
-pathinfo();
+echo "不好";
 
  ?>
