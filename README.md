@@ -1,2 +1,0 @@
-# projectC
-my_project
