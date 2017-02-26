@@ -1,0 +1,14 @@
+[ 2017-02-26T17:20:37+08:00 ] ::1 /projectC1/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+NOTIC: [8] Undefined index: url D:\wc\xampp\htdocs\projectC1\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2017-02-26T17:36:05+08:00 ] ::1 /projectC1/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009001s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.014002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.037004s ]
+NOTIC: [8] Undefined index: url D:\wc\xampp\htdocs\projectC1\application\Common\Controller\AppframeController.class.php 第 24 行.
+
